@@ -1,0 +1,9 @@
+# 本地生成物（不进仓库）
+scripts/state.json
+scripts/assets/
+scripts/__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
+Thumbs.db
